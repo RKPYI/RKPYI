@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **[NEXT.js]**
@@ -35,16 +29,6 @@
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </p>
 </details>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkpyi&show_icons=true&theme=tokyonight" alt="RKPYI's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkpyi&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
