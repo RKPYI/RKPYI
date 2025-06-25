@@ -42,7 +42,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RKPYI&show_icons=true&count_private=true&theme=transparent" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKPYI&theme=transparent&hide_border=true" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKPYI&layout=compact&theme=transparent" alt="top langs"/>
 </p>
 
