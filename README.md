@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Passionate about <span style="background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); -webkit-background-clip: text; color: transparent;">Web Development</span> | 🚀 Tech Enthusiast
+  🚀 Fullstack Web Developer
 </h3>
 
 ---
