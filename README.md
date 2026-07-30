@@ -2,8 +2,8 @@
  README — RanDK
  ------------------------------------------------------------ -->
 
-<h1 align="center">Hi, I'm RanDK 👋</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<h1 align="center">RanDK</h1>
+<h3 align="center">Web Developer & Game Developer</h3>
 
 <!-- visitor counter -->
 <p align="center">
@@ -14,10 +14,9 @@
 
 ## 🚀 About
 
-- 🔭 Currently exploring **Next.js**
-- 💡 Focused on **Web Development** & **REST APIs**
-- 📁 Projects: [Portfolio](#)
-- 🎓 High-school Student
+- 🔭 Currently exploring **Luau**
+- 💡 Focused on **Game Development** & **UI Design**
+- 🎓 Uni Student
 
 ---
 
@@ -27,6 +26,8 @@
   <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=luau&logoColor=white"/>
 </div>
 
 ---
@@ -47,6 +48,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RKPYI/RKPYI/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/RKPYI/RKPYI/output/github-snake.svg" />
 </picture>
+
+---
+
+## Hackatime Stats
+
+<p align="center">
+   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=38912&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
+</p>
 
 ---
 
